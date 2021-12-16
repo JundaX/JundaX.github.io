@@ -9,7 +9,7 @@
     X. Cai, J. Xiong and J. Li,
     
     International Journal for Uncertainty Quantification, to appear.
-3. [Estimating the normalizing constant with Multicanonical Monte Carlo]()
+3. [Estimating the normalizing constant with Multicanonical Monte Carlo](https://github.com/JundaX/JundaX.github.io/blob/main/pubs/mmc.pdf)
 
     J. Xiong and J. Li,
 
