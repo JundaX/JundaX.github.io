@@ -4,7 +4,7 @@
     J. Xiong, X. Cai and J. Li,
     
     Journal of Computational Physics 450 (2022).
-2. [Control variate with dimension reduced Bayesian Monte Carlo sampler]()
+2. [Control variate with dimension reduced Bayesian Monte Carlo sampler](https://github.com/JundaX/JundaX.github.io/edit/main/pubs/2101.00057.pdf)
 
     X. Cai, J. Xiong and J. Li,
     
